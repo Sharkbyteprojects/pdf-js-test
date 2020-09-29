@@ -2,7 +2,7 @@
 ## TEST
 &copy;Sharkbyteprojects
 
-[GET THE PDF](https://github.com/Sharkbyteprojects/pdf-js-test/raw/master/pdfjs.pdf)
+[GET THE PDF](https://github.com/Sharkbyteprojects/pdf-js-test/raw/master/pdfjs.pdf) `SHA256: 225E71DD63808F15D71B114B66BF36A62E7D6133D9D4743C58160A5CAEA44207`
 
 [Get Source](https://github.com/Sharkbyteprojects/pdf-js-test/raw/master/pdfjs.sla)
 
