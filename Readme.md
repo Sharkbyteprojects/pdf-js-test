@@ -2,6 +2,10 @@
 ## TEST
 &copy;Sharkbyteprojects
 
+[GET THE PDF](https://github.com/Sharkbyteprojects/pdf-js-test/raw/master/pdfjs.pdf)
+
+[Get Source](https://github.com/Sharkbyteprojects/pdf-js-test/raw/master/pdfjs.sla)
+
 ## Screenshots
 - Firefox (NO JS): ![OOPS!](https://media.githubusercontent.com/media/Sharkbyteprojects/pdf-js-test/master/screenshots/pdfjs%20under%20firefox.png)
 - GhostScript (NO JS) ![OOPS!](https://media.githubusercontent.com/media/Sharkbyteprojects/pdf-js-test/master/screenshots/pdfjs%20under%20ghostscript.png)
